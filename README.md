@@ -36,8 +36,8 @@ O projeto está organizado nas seguintes pastas:
 
 1. Clone o repositório
 ```bash
-git clone <url-do-repositorio>
-cd chat-app-frontend
+git clone https://github.com/odairrosario/chat-frontend.git
+cd chat-frontend
 ```
 
 2. Instale as dependências
